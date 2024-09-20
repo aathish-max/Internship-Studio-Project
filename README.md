@@ -1,4 +1,4 @@
-# Internship-Studio-Project-
+# Internship-Studio-Project
 
 All Screenshots related to the task are in the pdf files 
 
